@@ -2,13 +2,13 @@
 
 # 
 
-# \[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mike-santolin/)
+# [!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mike-santolin/)
 
-# \[!\[GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mikesantolin)
+# [!\[GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mikesantolin)
 
-# \[!\[DIO.me](https://img.shields.io/badge/DIO.me-FF6B00?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://web.dio.me/users/mikesantolin)
+# [!\[DIO.me](https://img.shields.io/badge/DIO.me-FF6B00?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://web.dio.me/users/mikesantolin)
 
-# \[!\[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mikesantolin@gmail.com)
+# [!\[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mikesantolin@gmail.com)
 
 # 
 
